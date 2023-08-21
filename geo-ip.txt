@@ -1,0 +1,4 @@
+# Self-published geofeed as defined in datatracker.ietf.org/doc/html/rfc8805
+# NEGU Geofeed AS54309
+23.160.184.0/24,US,US-NY,Manhattan,
+2602:FA3C::/40,US,US-NY,Manhattan,
