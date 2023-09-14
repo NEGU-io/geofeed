@@ -5,3 +5,5 @@
 2602:FA3C:1::/48,US,US-NY,Manhattan,
 2602:FA3C:2::/48,US,MO,Kansas City,
 2602:FA3C:3::/48,US,MO,Kansas City,
+2602:FA3C:4::/48,GB,GB-LND,London,
+2602:FA3C:5::/48,GB,GB-LND,London,
